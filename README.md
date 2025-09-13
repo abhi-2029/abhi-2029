@@ -30,7 +30,7 @@
 
 ### ⚒️ Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sql,js,html,css,react,nodejs,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,SQL,js,html,css,react,nodejs,express,bootstrap" />
 </p>
 
 ### 📊 Data & Visualization  
