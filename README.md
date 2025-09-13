@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Abhishek Singh Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Abhishek Ranjan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Ranjan (Abhi-2029)</h1>
@@ -9,7 +9,13 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Kubernetes+%26+Docker+Practitioner;DSA+%7C+C%2B%2B+%26+Python+Expert;Power+BI+%26+Data+Visualization;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Kubernetes+%26+Docker+Practitioner;DSA+%7C+C%2B%2B+%26+Python+Expert;Power+BI+%26+Data+Visualization;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi-2029&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -39,10 +45,25 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats & Trophies  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi-2029&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-2029&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi-2029&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-2029&layout=compact&theme=radical&langs_count=8"/>
+</p>
+
+---
+
+## 📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-2029&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
