@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Abhishek Ranjan Banner" width="100%" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Ranjan (Abhi-2029)</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | DSA Practitioner</h3>
