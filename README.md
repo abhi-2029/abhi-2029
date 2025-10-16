@@ -11,7 +11,7 @@
 
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Kubernetes+%26+Docker+Practitioner;Data+Structures+%26+Algorithms;Python+%26+C%2B%2B+Expertise;Data+Visualization+%26+Analytics;Open+Source+Contributor;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Data+Analytics+%26+Visualization;Python+%26+C%2B%2B+Programmer;Power+BI+%26+Tableau+Developer;DSA+Problem+Solver;Open+Source+Contributor;Lifelong+Learner" />
 </p>
 
 ---
